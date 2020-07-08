@@ -1,0 +1,4 @@
+Log notice stdout
+SocksPort 0.0.0.0:9050
+ControlPort 0.0.0.0:9051
+#HashedControlPassword PASSWORD_HASH
